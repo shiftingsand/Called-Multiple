@@ -1,0 +1,1 @@
+I'm having a problem with iOS 18 where navigation causes a "double push" and the .onAppear for my first tab getting called endlessly.  So far I can only recreate the double push.  If you go to the general link it sometimes happen.  If it doesn't back out and try again.
